@@ -1,2 +1,10 @@
 # My-Seventh-Task
 Basic Disk Imaging using FTK Imager project demonstrates the process of creating a forensic image of a storage device or folder using FTK Imager on Windows OS. The task includes evidence acquisition, image creation (.E01/.dd), and verification using MD5 and SHA1 hash values to maintain digital evidence integrity in forensic investigations.
+# This project demonstrates the process of basic disk imaging using FTK Imager in a Windows operating system environment. The main purpose of this task was to understand how digital evidence is acquired, preserved, and verified during a digital forensic investigation. Disk imaging is an important technique in cybersecurity and digital forensics because it creates an exact copy of a storage device without changing the original data.
+
+# In this task, FTK Imager was used to create a forensic image of a USB drive or sample folder. The process started by selecting the target source and choosing the appropriate image format such as .E01 or .dd. The forensic image was then saved to a selected destination folder for further analysis. During the acquisition process, MD5 and SHA1 hash values were generated automatically to verify the integrity and authenticity of the evidence.
+
+# Hash verification plays a major role in digital forensics because it ensures that the copied image is exactly the same as the original source and has not been modified. Matching hash values confirm that the evidence remains secure and reliable for investigation purposes. The project also provided knowledge about evidence handling procedures, forensic acquisition methods, and the importance of maintaining data integrity during investigations.
+
+# Through this project, practical experience was gained in using FTK Imager, understanding forensic imaging procedures, generating forensic image files, and verifying evidence using cryptographic hash functions. Overall, the task helped in building foundational knowledge of digital forensics, evidence preservation, and cybersecurity investigation techniques.
+
